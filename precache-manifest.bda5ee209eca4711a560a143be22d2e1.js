@@ -1,17 +1,21 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ceee2898be67d3088ca41f71e16a62db",
+    "revision": "0f23b6e4f6ab2b535a14c5a15b43828e",
     "url": "iframe.html"
   },
   {
-    "url": "main.83c854904fa7f2918dbc.bundle.js"
+    "url": "main.f809ad1e68f9a80682b8.bundle.js"
   },
   {
-    "url": "runtime~main.83c854904fa7f2918dbc.bundle.js"
+    "url": "runtime~main.f809ad1e68f9a80682b8.bundle.js"
   },
   {
-    "revision": "e21b279f4ef3ec41e12d",
+    "revision": "766e5d07d35008c9f0e6",
     "url": "static/css/vendors~main.5a8a6b15.chunk.css"
+  },
+  {
+    "revision": "aa1fca7083105c585206bbffc534e868",
+    "url": "static/media/ListItemTagInInfoListItem.aa1fca70.png"
   },
   {
     "revision": "c84086af70f7c290fcb394fae3240956",
@@ -40,6 +44,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "20db400d34b3b4295bfd5c944384d513",
     "url": "static/media/infoListItem.20db400d.png"
+  },
+  {
+    "revision": "185ee093ed82be31751932bf761db6ab",
+    "url": "static/media/listItemTag.185ee093.png"
   },
   {
     "revision": "24f7b0944e9e03a905f9d7701573b2cd",
@@ -146,17 +154,21 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "static/media/scorecard_alt.8f5c5025.png"
   },
   {
+    "revision": "f1e38d997b183da11395f52d79854637",
+    "url": "static/media/spacer.f1e38d99.png"
+  },
+  {
     "revision": "67c225308c9adb88ee5d650ad50c1cd1",
     "url": "static/media/typography.67c22530.png"
   },
   {
-    "url": "vendors~main.83c854904fa7f2918dbc.bundle.js"
-  },
-  {
-    "url": "vendors~main.83c854904fa7f2918dbc.bundle.js.LICENSE"
-  },
-  {
-    "revision": "e21b279f4ef3ec41e12d",
+    "revision": "766e5d07d35008c9f0e6",
     "url": "vendors~main.css"
+  },
+  {
+    "url": "vendors~main.f809ad1e68f9a80682b8.bundle.js"
+  },
+  {
+    "url": "vendors~main.f809ad1e68f9a80682b8.bundle.js.LICENSE.txt"
   }
 ]);
